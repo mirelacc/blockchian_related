@@ -11,6 +11,10 @@ http://www.slideshare.net/capgemini/infographic-smart-contracts-between-hype-and
 https://www.capgemini-consulting.com/blockchain-smart-contracts
 
 
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.okb3fwnkl
+
+http://cryptorials.io/a-beginners-guide-to-smart-contracts/
+
 
 # Legislation:
 
@@ -63,5 +67,8 @@ http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/233642736
 https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprint.iacr.org/2015/675.pdf+&cd=13&hl=nl&ct=clnk&gl=nl
 
 https://eprint.iacr.org/2015/675.pdf
+
+
+
 
 
