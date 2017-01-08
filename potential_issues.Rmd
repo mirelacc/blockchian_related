@@ -1,0 +1,41 @@
+
+# Bictoin:
+
+# Mining & Power
+
+
+
+# Congestion:
+
+Transaction cap: 
+
+- 5-7 tx/sec.
+- 12.5, and 1 MB/ 10 min.
+
+
+Layers on top of bitcoin, 'layer 2 services' like:
+- Side-chains
+(https://blockstream.com/sidechains.pdf)
+
+- Lightening
+
+
+(Bobby Lee, CO BTCC)
+
+
+
+
+http://www.coindesk.com/bitfinex-shuts-down-customer-bitcoin-stolen/
+
+https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-numbers/
+
+https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
+
+https://www.oreilly.com/ideas/blockchain-scalability
+
+http://www.coindesk.com/bitfury-flare-lightning-network-routing/
+
+
+https://www.bigchaindb.com/whitepaper 
+
+https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
