@@ -3,6 +3,10 @@ https://en.wikipedia.org/wiki/Comparison_of_bitcoin_wallets
 
 http://blockgeeks.com/questions/what-are-your-favorite-wallets-to-use-and-why/
 
+https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
+
+https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
+
 https://electrum.org/#home
 
 https://bitrush.nl/nl/faq
@@ -10,8 +14,6 @@ https://bitrush.nl/nl/faq
 https://bitcointalk.org/index.php?topic=483427.044
 
 http://bitzuma.com/posts/bitcoin-paper-wallets-from-scratch/
-
-https://en.bitcoin.it/wiki/Cold_storage
 
 https://bitonic.nl/faq#bpay
 
@@ -25,16 +27,11 @@ https://www.reddit.com/r/Bitcoin/comments/2koxbo/which_is_more_secure_electrum_o
 
 https://www.reddit.com/r/Bitcoin/comments/34f1yb/ubuntu_electrum_vs_android_mycelium_which_one_is/
 
-
-
-https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
-
-https://counterwallet.io/
-
 https://www.reddit.com/r/Bitcoin/comments/3nhu99/can_i_recover_my_wallet_with_a_12_word_seed/
 
 https://www.cryptocompare.com/
 
+https://counterwallet.io/
 
 
 https://www.youtube.com/watch?v=g5lwtqsMoAI
@@ -55,12 +52,11 @@ https://www.google.nl/search?q=blockchain+info+wallet&oq=blockchain+info+wallet&
 
 
 
-
 # Cold
 
-> Trezor <
+https://doc.satoshilabs.com/trezor-user/transfertotrezor.html
 
 https://www.ledgerwallet.com/products/12-ledger-nano-s
 
-
+https://en.bitcoin.it/wiki/Cold_storage
 
