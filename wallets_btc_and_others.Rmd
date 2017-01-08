@@ -1,7 +1,13 @@
 
 https://en.wikipedia.org/wiki/Comparison_of_bitcoin_wallets
 
-https://bitcointalk.org/index.php?topic=483427.0
+https://bitcointalk.org/index.php?topic=483427.044
+
+http://bitzuma.com/posts/bitcoin-paper-wallets-from-scratch/
+
+https://en.bitcoin.it/wiki/Cold_storage
+
+https://bitonic.nl/faq#bpay
 
 https://99bitcoins.com/best-bitcoin-wallet-2015-bitcoin-wallets-comparison-review/
 
