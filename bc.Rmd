@@ -1,0 +1,131 @@
+
+## - General info:
+
+-> https://www.linkedin.com/groups/4243277
+
+http://www.initc3.org/publications.html
+
+http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/231588722
+
+http://www.meetup.com/IC3-NYC-Blockchain-Meetup/
+
+https://nadim.computer/
+
+http://blockchain.media.mit.edu/syllabus.html
+
+http://ledgerjournal.org/ojs/index.php/ledger/index
+
+https://blog.sldx.com/
+
+http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
+## - Enigma / MIT:
+
+"Run Code On Encrypted Data - Secure data & protect privacy without compromising functionality”
+
+http://enigma.media.mit.edu/
+
+http://enigma.media.mit.edu/enigma_full.pdf
+
+https://www.wired.com/2015/06/mits-bitcoin-inspired-enigma-lets-computers-mine-encrypted-data/
+
+Bob McElrath explains some aspects, like the multi-party-computation:
+
+https://www.youtube.com/watch?v=Z4K_Rn8QWGo
+
+## - Programming Smart contracts :
+
+http://21.co/
+
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.okb3fwnkl
+
+http://cryptorials.io/a-beginners-guide-to-smart-contracts/
+
+## - Ethereum:
+
+https://docs.google.com/presentation/d/1OklfhEV4Rs-wBW_zrWlC6cu4F3fJxL6YOE2MJp5eXTU/edit#slide=id.g1578fe1a7c_1_88 
+
++
+
+https://www.youtube.com/watch?v=cGFOKTm_8zk
+
+https://media.consensys.net/2016/08/09/ethereum-isnt-turing-complete-and-it-doesnt-matter-anyway/
+
+http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/233642736  
+
+(Town Crier: An Authenticated Data Feed for Smart Contracts - Prof. Ari Juels)
+
+## - Hawk / "Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts”
+
+https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprint.iacr.org/2015/675.pdf+&cd=13&hl=nl&ct=clnk&gl=nl
+
+https://eprint.iacr.org/2015/675.pdf
+
+## - Limitations:
+
+- Transaction frequency: 
+
+https://www.oreilly.com/ideas/blockchain-scalability
+
+http://www.coindesk.com/bitfury-flare-lightning-network-routing/
+
+https://blockstream.com/sidechains.pdf
+
+https://www.bigchaindb.com/whitepaper 
+
+https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
+
+## - Applications:
+
+https://www.linkedin.com/pulse/blockchain-healthcare-your-banking-card-lucien-engelen
+
+https://e-estonia.com/guardtime-secures-estonian-health-records/
+
+http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-regional-epicenter-of-fintech
+
+-> http://www.blockchainofthings.com/ 
+
+
+## - Mics / Resources:
+
+https://twitter.com/aantonop 
+
+https://www.meetup.com/BitcoinWednesday/events/227452108/ 
+
+https://www.meetup.com/BitcoinWednesday/events/227452108/
+
+https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos 
+
+http://www.bitcoinwednesday.com/profile-alexander-vasylchenko-of-grid-singularity/ 
+
+http://gridsingularity.com/#/0/1
+
+http://www.slideshare.net/ericcattoir/anatomy-of-a-hyperledger-application?qid=f786f22c-657b-406f-b66b-12029b692757&v=&b=&from_search=1 
+
+https://www.youtube.com/watch?v=pNerM72f0Pk 
+
+https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md 
+
+http://www.slideshare.net/splix/ethereum-classic-roadmap?qid=33bfdf62-8669-4a8c-a37e-f9ab66993a1f&v=&b=&from_search=1 
+
+https://github.com/HydraChain/hydrachain 
+
+https://openzeppelin.org/ 
+
+https://drive.google.com/file/d/0B42vMkapQi1MSEVaa2tuVEtXZXM/view
+
+http://tinyletter.com/datamachina/letters/data-machina-y3-week-34 
+
+http://www.slideshare.net/ormium/architecture-of-the-hyperledger-blockchain-fabric-christian-cachin-ibm-research-zurich 
+
+https://github.com/jpmorganchase/quorum 
+
+http://www.slideshare.net/TobiasDisse/alternative-consensus-enterprise-blockchain-66788582?qid=0cbed771-c556-4db9-8fd2-f7bd9f712afa&v=&b=&from_search=9
+
+http://www.coinspeaker.com/2016/11/30/royal-mint-partners-with-cme-group-to-offer-gold-trading-based-on-blockchain/ 
+
+http://www.telegraph.co.uk/business/2016/11/29/royal-mint-offers-gold-trading-based-blockchain/ 
+
+https://medium.com/@bergealex4/the-artificial-block-size-limit-1b69aa5d9d4#.5slogz3ye 
+
+https://medium.com/@bergealex4
