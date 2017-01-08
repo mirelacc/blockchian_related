@@ -1,6 +1,12 @@
 
 https://en.wikipedia.org/wiki/Comparison_of_bitcoin_wallets
 
+http://blockgeeks.com/questions/what-are-your-favorite-wallets-to-use-and-why/
+
+https://electrum.org/#home
+
+https://bitrush.nl/nl/faq
+
 https://bitcointalk.org/index.php?topic=483427.044
 
 http://bitzuma.com/posts/bitcoin-paper-wallets-from-scratch/
@@ -19,19 +25,9 @@ https://www.reddit.com/r/Bitcoin/comments/2koxbo/which_is_more_secure_electrum_o
 
 https://www.reddit.com/r/Bitcoin/comments/34f1yb/ubuntu_electrum_vs_android_mycelium_which_one_is/
 
-https://www.youtube.com/watch?v=g5lwtqsMoAI
 
-https://www.youtube.com/watch?v=PdGRmshPXdo
-
-https://www.youtube.com/watch?v=YI1OntWB7wc
-
-https://www.ledgerwallet.com/products/12-ledger-nano-s
-
-https://electrum.org/#home
 
 https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
-
-http://bitzuma.com/posts/bitcoin-paper-wallets-from-scratch/
 
 https://counterwallet.io/
 
@@ -39,9 +35,15 @@ https://www.reddit.com/r/Bitcoin/comments/3nhu99/can_i_recover_my_wallet_with_a_
 
 https://www.cryptocompare.com/
 
-http://bitzuma.com/posts/bitcoin-paper-wallets-from-scratch/
 
-http://blockgeeks.com/questions/what-are-your-favorite-wallets-to-use-and-why/
+
+https://www.youtube.com/watch?v=g5lwtqsMoAI
+
+https://www.youtube.com/watch?v=YI1OntWB7wc
+
+Andreas Antonopoulos on Bitcoin Wallet Encryption:
+
+https://www.youtube.com/watch?v=PdGRmshPXdo
 
 
 https://www.google.nl/search?q=TREZOR&oq=TREZOR&aqs=chrome..69i57j69i60l2&client=ubuntu&sourceid=chrome&ie=UTF-8#safe=off&tbm=vid&q=trezor+bitcoin+wallet
@@ -49,4 +51,16 @@ https://www.google.nl/search?q=TREZOR&oq=TREZOR&aqs=chrome..69i57j69i60l2&client
 https://www.google.nl/search?q=electrum+wallet&oq=electrum+wallet&aqs=chrome..69i57j0l5.3758j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8#safe=off&q=jaxx+wallet
 
 https://www.google.nl/search?q=blockchain+info+wallet&oq=blockchain+info+wallet&aqs=chrome..69i57j0l5.4406j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8
+
+
+
+
+
+# Cold
+
+> Trezor <
+
+https://www.ledgerwallet.com/products/12-ledger-nano-s
+
+
 
