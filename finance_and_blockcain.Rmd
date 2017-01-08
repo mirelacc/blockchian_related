@@ -1,0 +1,50 @@
+
+# BTC:
+
+https://www.bloomberg.com/news/articles/2016-12-16/bitcoin-s-rally-crushed-every-other-currency-in-2016-here-s-why
+
+http://www.forbes.com/sites/laurashin/2017/01/05/the-2-factors-that-drove-bitcoins-20-overnight-price-plunge/#6033a327563c
+
+"Want to know what's behind the bitcoin surge? @BKBrianKelly breaks it down"
+ 
+https://twitter.com/CNBCFastMoney/status/812425456293126144
+
+https://media.consensys.net/ethon-introducing-semantic-ethereum-15f1f0696986#.mmz673tkk
+
+"Crypto traders: in your opinion, how would a sustained regime of 5-6% interest rates affect the Bitcoin price?"
+
+https://twitter.com/el33th4xor/status/808744053944844297
+
+
+# Other Cryptocurrencies:
+
+http://blockgeeks.com/questions/what-do-you-think-of-the-new-anonymous-digital-currency-zcash/
+
+https://en.wikipedia.org/wiki/Dash_(cryptocurrency)
+
+https://www.cryptocompare.com/
+
+
+- Africa:
+
+https://qz.com/872876/fintech-senegal-is-launched-the-ecfa-digital-currency/
+
+
+
+# (Potential) issues:
+
+http://www.coindesk.com/bitfinex-shuts-down-customer-bitcoin-stolen/
+
+https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-numbers/
+
+https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
+
+
+# Practical:
+
+Bunq is a new Dutch app based bank and is available throughout the EU.  
+
+BL3P, the trading platform of Bitonic B.V., uses the specifically created Stichting Bitonic Payments to store and administer customer funds. 
+
+https://bitonic.nl/bl3p
+
