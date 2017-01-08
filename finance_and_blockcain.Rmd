@@ -45,9 +45,6 @@ https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-num
 
 https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
 
-
-- Transaction frequency: 
-
 https://www.oreilly.com/ideas/blockchain-scalability
 
 http://www.coindesk.com/bitfury-flare-lightning-network-routing/
