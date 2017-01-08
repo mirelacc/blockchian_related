@@ -46,6 +46,19 @@ https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-num
 https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
 
 
+- Transaction frequency: 
+
+https://www.oreilly.com/ideas/blockchain-scalability
+
+http://www.coindesk.com/bitfury-flare-lightning-network-routing/
+
+https://blockstream.com/sidechains.pdf
+
+https://www.bigchaindb.com/whitepaper 
+
+https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
+
+
 # Fee related:
 
 https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
