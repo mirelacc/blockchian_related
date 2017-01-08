@@ -1,11 +1,20 @@
 
+
+
 https://en.wikipedia.org/wiki/Comparison_of_bitcoin_wallets
 
 http://blockgeeks.com/questions/what-are-your-favorite-wallets-to-use-and-why/
 
 https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
 
-https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/
+Andreas Antonopoulos on Bitcoin Wallet Encryption:
+
+https://www.youtube.com/watch?v=PdGRmshPXdo
+
+
+
+# Hot storage:
+
 
 https://electrum.org/#home
 
@@ -38,12 +47,8 @@ https://www.youtube.com/watch?v=g5lwtqsMoAI
 
 https://www.youtube.com/watch?v=YI1OntWB7wc
 
-Andreas Antonopoulos on Bitcoin Wallet Encryption:
-
-https://www.youtube.com/watch?v=PdGRmshPXdo
 
 
-https://www.google.nl/search?q=TREZOR&oq=TREZOR&aqs=chrome..69i57j69i60l2&client=ubuntu&sourceid=chrome&ie=UTF-8#safe=off&tbm=vid&q=trezor+bitcoin+wallet
 
 https://www.google.nl/search?q=electrum+wallet&oq=electrum+wallet&aqs=chrome..69i57j0l5.3758j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8#safe=off&q=jaxx+wallet
 
@@ -52,7 +57,7 @@ https://www.google.nl/search?q=blockchain+info+wallet&oq=blockchain+info+wallet&
 
 
 
-# Cold
+# Cold storage:
 
 https://doc.satoshilabs.com/trezor-user/transfertotrezor.html
 
@@ -60,3 +65,4 @@ https://www.ledgerwallet.com/products/12-ledger-nano-s
 
 https://en.bitcoin.it/wiki/Cold_storage
 
+https://www.google.nl/search?q=TREZOR&oq=TREZOR&aqs=chrome..69i57j69i60l2&client=ubuntu&sourceid=chrome&ie=UTF-8#safe=off&tbm=vid&q=trezor+bitcoin+wallet
