@@ -42,6 +42,21 @@ https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-num
 https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
 
 
+# Fee related:
+
+https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
+
+http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
+
+
+# Taxes:
+
+
+http://www.internationaltaxreview.com/Article/3573467/Blockchain-and-tax-What-businesses-need-to-know.html
+
+http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
+
+
 # Practical:
 
 Bunq is a new Dutch app based bank and is available throughout the EU.  
