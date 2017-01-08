@@ -33,64 +33,10 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 
 https://www.youtube.com/watch?v=Z4K_Rn8QWGo
 
-## - Programming Smart contracts :
-
-http://21.co/
-
-https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.okb3fwnkl
-
-http://cryptorials.io/a-beginners-guide-to-smart-contracts/
-
-## - Ethereum:
-
-https://docs.google.com/presentation/d/1OklfhEV4Rs-wBW_zrWlC6cu4F3fJxL6YOE2MJp5eXTU/edit#slide=id.g1578fe1a7c_1_88 
-
-+
-
-https://www.youtube.com/watch?v=cGFOKTm_8zk
-
-https://media.consensys.net/2016/08/09/ethereum-isnt-turing-complete-and-it-doesnt-matter-anyway/
-
-http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/233642736  
-
-(Town Crier: An Authenticated Data Feed for Smart Contracts - Prof. Ari Juels)
-
-## - Hawk / "Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts”
-
-https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprint.iacr.org/2015/675.pdf+&cd=13&hl=nl&ct=clnk&gl=nl
-
-https://eprint.iacr.org/2015/675.pdf
-
-## - Limitations:
-
-- Transaction frequency: 
-
-https://www.oreilly.com/ideas/blockchain-scalability
-
-http://www.coindesk.com/bitfury-flare-lightning-network-routing/
-
-https://blockstream.com/sidechains.pdf
-
-https://www.bigchaindb.com/whitepaper 
-
-https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
-
-## - Applications:
-
-https://www.linkedin.com/pulse/blockchain-healthcare-your-banking-card-lucien-engelen
-
-https://e-estonia.com/guardtime-secures-estonian-health-records/
-
-http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-regional-epicenter-of-fintech
-
--> http://www.blockchainofthings.com/ 
 
 
 ## - Mics / Resources:
-
-https://twitter.com/aantonop 
-
-https://www.meetup.com/BitcoinWednesday/events/227452108/ 
+ 
 
 https://www.meetup.com/BitcoinWednesday/events/227452108/
 
