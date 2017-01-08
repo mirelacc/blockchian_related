@@ -28,3 +28,40 @@ http://dutchchainwhitepaper.nl/
 
 http://motherboard.vice.com/read/democracy-by-app
 
+
+# Healthcare:
+
+https://www.linkedin.com/pulse/blockchain-healthcare-your-banking-card-lucien-engelen
+
+https://e-estonia.com/guardtime-secures-estonian-health-records/
+
+
+# IOT:
+
+http://www.blockchainofthings.com/ 
+
+
+
+# Platforms & tools:
+
+- Ethereum:
+
+https://docs.google.com/presentation/d/1OklfhEV4Rs-wBW_zrWlC6cu4F3fJxL6YOE2MJp5eXTU/edit#slide=id.g1578fe1a7c_1_88 
+
++
+
+https://www.youtube.com/watch?v=cGFOKTm_8zk
+
+https://media.consensys.net/2016/08/09/ethereum-isnt-turing-complete-and-it-doesnt-matter-anyway/
+
+http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/233642736  
+
+(Town Crier: An Authenticated Data Feed for Smart Contracts - Prof. Ari Juels)
+
+- Hawk / "Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts”
+
+https://webcache.googleusercontent.com/search?q=cache:JE2IkaQDUZ4J:https://eprint.iacr.org/2015/675.pdf+&cd=13&hl=nl&ct=clnk&gl=nl
+
+https://eprint.iacr.org/2015/675.pdf
+
+
