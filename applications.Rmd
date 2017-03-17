@@ -1,6 +1,14 @@
 
 
-dapps.ethercasts.com
+www.dapps.ethercasts.com
+
+https://www.wired.com/2017/03/google-deepminds-untrendy-blockchain-play-make-actually-useful/
+
+http://www.coindesk.com/dubai-government-ibm-city-blockchain-pilot/
+
+https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/blockchain-technology-9-benefits-and-7-challenges.html
+
+
 
 # Identity:
 
@@ -8,6 +16,13 @@ https://www.youtube.com/watch?v=qRevDM9D8WE
 
 https://www.slideshare.net/personalbrandingacademy/epicauth-business-presentation-v223
 
+
+
+# Considerations
+
+https://medium.com/@arsalanskhalid/deciding-between-ethereum-or-hyperledger-contributing-towards-open-source-development-4cb16e9f5290#.ndflc45va
+
+https://hackernoon.com/explaining-blockchain-how-proof-of-work-enables-trustless-consensus-2abed27f0845#.1ediv8v35
 
 
 
@@ -18,3 +33,5 @@ https://blockchainhackathon.eu
 http://datafluisteraar.org/hackathon-reflectie/
 
 
+
+https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
