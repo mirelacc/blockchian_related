@@ -1,11 +1,16 @@
 
-# Bictoin:
+Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact
 
-# Mining & Power
+https://arxiv.org/pdf/1703.03779.pdf
+
+
+Bictoin:
+
+Mining & Power
 
 
 
-# Congestion:
+Congestion:
 
 Transaction cap: 
 
