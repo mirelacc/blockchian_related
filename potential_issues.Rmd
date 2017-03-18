@@ -15,7 +15,7 @@
 # Anonymity
 
 - Anonymity in Bitcoin? – The Users’ Perspective http://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/10/
-- Also see: https://github.com/mirelacc/blockchian_related/
+- Also see: https://github.com/mirelacc/blockchian_related/blob/master/finance_and_blockcain.Rmd
 
 # Mining & power
 
