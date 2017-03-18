@@ -12,7 +12,16 @@
 - https://blog.sldx.com/
 - http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 
-# Enigma / MIT:
+
+- http://www.blockchain-lab.org/#publications
+
+# P2P systems
+
+- http://www.ds.ewi.tudelft.nl/pouwelse/publications/
+- 4th Generation Peer-to-Peer Technology https://www.youtube.com/watch?v=JQiLaKdzD0E
+
+
+# Enigma - MIT
 
 "Run Code On Encrypted Data - Secure data & protect privacy without compromising functionality”
 
@@ -25,7 +34,7 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 - https://www.youtube.com/watch?v=Z4K_Rn8QWGo
 
 
-# Mics / Resources: 
+# Mics / Resources
 
 - https://www.meetup.com/BitcoinWednesday/events/227452108/
 - https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos 
@@ -46,7 +55,6 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 - http://www.telegraph.co.uk/business/2016/11/29/royal-mint-offers-gold-trading-based-blockchain/ 
 - https://medium.com/@bergealex4/the-artificial-block-size-limit-1b69aa5d9d4#.5slogz3ye 
 - https://medium.com/@bergealex4
-
 
 
 
