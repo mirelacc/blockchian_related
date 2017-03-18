@@ -6,6 +6,7 @@
 - Security Implications of Non-Financial Uses of Blockchain Technology  https://www.youtube.com/watch?v=fEA398SELOE
 - Ethereum: The Good, The Bad, The Ugly https://www.youtube.com/watch?v=BwPulJKP1_Y
 - POS https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
+- APJ Quick Look: Security Implications of Using Blockchain Technology for More than Money https://www.youtube.com/watch?v=dGGnHTnkSCs
 
 
 # Anonymity
@@ -48,4 +49,6 @@ Congestion in BTC:
 IPFS:
 
 - https://www.youtube.com/watch?v=ewpIi1y_KDc
+- https://www.youtube.com/watch?v=jONZtXMu03w
+- https://www.youtube.com/watch?v=cU-n_m-snxQ
 
