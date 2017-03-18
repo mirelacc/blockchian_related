@@ -15,8 +15,7 @@
 # Anonymity
 
 - Anonymity in Bitcoin? – The Users’ Perspective http://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/10/
-- “When perhaps the real problem is money itself!”: the practical materiality of Bitcoin http://www.tandfonline.com/doi/abs/10.1080/10350330.2013.777594
-
+- Also see: https://github.com/mirelacc/blockchian_related/
 
 # Mining & power
 
