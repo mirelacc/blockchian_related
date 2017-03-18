@@ -93,6 +93,9 @@ NL:
 - https://blockchainhackathon.eu
 - http://datafluisteraar.org/hackathon-reflectie/
 
+# Trust
+
+- https://www.crunchbase.com/organization/authenteq#/entity
 
 # Other: Blockchain-API
 
