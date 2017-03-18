@@ -20,6 +20,10 @@
 - http://www.ds.ewi.tudelft.nl/pouwelse/publications/
 - 4th Generation Peer-to-Peer Technology https://www.youtube.com/watch?v=JQiLaKdzD0E
 - https://github.com/Tribler
+- http://wan.poly.edu/p2p2015/keynote.html
+- Distributed systems research group:
+- https://pure.tudelft.nl/portal/en/organisations/distributed-systems(bae30032-1ecb-46c4-8efb-ed9e7251d281)/publications.html
+
 
 # Enigma - MIT
 
