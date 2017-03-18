@@ -29,18 +29,24 @@ Ethereum
 - https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum 
 - https://media.consensys.net/the-birth-of-enterprise-ethereum-in-2017-ebe7f7abed92#.pd9tniigz
  
-Overview by Joseph Lubin (Consensys)
+Overviews
 
+- https://www.youtube.com/watch?v=hm4Eym4N0_Q
+
+- by Joseph Lubin (Consensys)
 - https://www.youtube.com/watch?v=0ilYnuP1qd4
 - + Slides: https://www.slideshare.net/LearnWTB/blockchain-ethereum-and-consensys
 
 Blockchain-API
 
 - https://twitter.com/blockcypher
+ 
 
-General:
+- Industry
 
-- https://www.youtube.com/watch?v=hm4Eym4N0_Q
+NL:
+
+- http://www.tudelft.nl/en/current/latest-news/article/detail/logistieke-sector-concreet-aan-de-slag-met-blockchain-technologie/
 - https://www.youtube.com/user/intobitcoin/videos
 
 
