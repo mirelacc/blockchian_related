@@ -29,10 +29,11 @@
 
 - Modeling and Simulation of the Economics of Mining in the Bitcoin Market http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164603
 
+ 
+# Misc & Researchers
 
-# Materiality
+- https://github.com/pimveldhuisen
 
-- “When perhaps the real problem is money itself!”: the practical materiality of Bitcoin http://www.tandfonline.com/doi/abs/10.1080/10350330.2013.777594
 
 
 
