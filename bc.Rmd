@@ -1,5 +1,5 @@
 
-## - General info:
+# General info:
 
 - https://www.linkedin.com/groups/4243277
 - http://www.initc3.org/publications.html
@@ -11,7 +11,7 @@
 - https://blog.sldx.com/
 - http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 
-## - Enigma / MIT:
+# Enigma / MIT:
 
 "Run Code On Encrypted Data - Secure data & protect privacy without compromising functionality”
 
@@ -24,7 +24,7 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 - https://www.youtube.com/watch?v=Z4K_Rn8QWGo
 
 
-## - Mics / Resources: 
+# Mics / Resources: 
 
 - https://www.meetup.com/BitcoinWednesday/events/227452108/
 - https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos 
