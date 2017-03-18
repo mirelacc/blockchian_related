@@ -48,13 +48,11 @@ NL:
 
 - https://www.digicommissaris.nl/page/919/blockchain-op-de-top-van-de-hype-cycle
 - https://www.blockchainpilots.nl/
-
 - http://www.coindesk.com/dubai-government-ibm-city-blockchain-pilot/
 - http://www.the-blockchain.com/2017/03/16/consensys-named-official-blockchain-city-advisor-city-dubai/
 
 
 # Banking & Finance
-
 
 - http://www.econotimes.com/Exclusive-Bank-of-Korea-R3-consortium-to-carry-out-blockchain-project-549053
 - www.bankingtech.com/746692/r3-turns-its-back-on-blockchain/ 
