@@ -1,65 +1,51 @@
 
 # BTC:
 
-https://www.bloomberg.com/news/articles/2016-12-16/bitcoin-s-rally-crushed-every-other-currency-in-2016-here-s-why
+- https://www.bloomberg.com/news/articles/2016-12-16/bitcoin-s-rally-crushed-every-other-currency-in-2016-here-s-why
 
-http://www.forbes.com/sites/laurashin/2017/01/05/the-2-factors-that-drove-bitcoins-20-overnight-price-plunge/#6033a327563c
+- http://www.forbes.com/sites/laurashin/2017/01/05/the-2-factors-that-drove-bitcoins-20-overnight-price-plunge/#6033a327563c
 
-"Want to know what's behind the bitcoin surge? @BKBrianKelly breaks it down"
- 
-https://twitter.com/CNBCFastMoney/status/812425456293126144
+- "Want to know what's behind the bitcoin surge? @BKBrianKelly breaks it down" https://twitter.com/CNBCFastMoney/status/812425456293126144
 
-"Crypto traders: in your opinion, how would a sustained regime of 5-6% interest rates affect the Bitcoin price?"
+- "Crypto traders: in your opinion, how would a sustained regime of 5-6% interest rates affect the Bitcoin price?" https://twitter.com/el33th4xor/status/808744053944844297
 
-https://twitter.com/el33th4xor/status/808744053944844297
+- "The Currency Wars and Bitcoin's Neutrality" https://www.youtube.com/watch?v=Bu5Mtvy97-4
 
-"The Currency Wars and Bitcoin's Neutrality"
-
-https://www.youtube.com/watch?v=Bu5Mtvy97-4
-
-"Thai bank implements blockchain"
-
-http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-regional-epicenter-of-fintech
+- "Thai bank implements blockchain" http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-regional-epicenter-of-fintech
 
 
 # Other Cryptocurrencies:
 
-http://blockgeeks.com/questions/what-do-you-think-of-the-new-anonymous-digital-currency-zcash/
+- http://blockgeeks.com/questions/what-do-you-think-of-the-new-anonymous-digital-currency-zcash/
 
-https://en.wikipedia.org/wiki/Dash_(cryptocurrency)
+- https://en.wikipedia.org/wiki/Dash_(cryptocurrency)
 
-https://www.cryptocompare.com/
+- https://www.cryptocompare.com/
 
 
-- Africa:
-
-https://qz.com/872876/fintech-senegal-is-launched-the-ecfa-digital-currency/
+- Africa: https://qz.com/872876/fintech-senegal-is-launched-the-ecfa-digital-currency/
 
 
 
 # Fee related:
 
-https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
+- https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
 
-http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
+- http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
 
 
 # Taxes:
 
+- http://www.internationaltaxreview.com/Article/3573467/Blockchain-and-tax-What-businesses-need-to-know.html
 
-http://www.internationaltaxreview.com/Article/3573467/Blockchain-and-tax-What-businesses-need-to-know.html
-
-http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
+- http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
 
 
 # Practical:
 
-Bunq is a new Dutch app based bank and is available throughout the EU.  
+- Bunq is a new Dutch app based bank and is available throughout the EU.  https://bitonic.nl/bl3p
 
-BL3P, the trading platform of Bitonic B.V., uses the specifically created Stichting Bitonic Payments to store and administer customer funds. 
-
-https://bitonic.nl/bl3p
-
+BL3P, the trading platform of Bitonic B.V., uses the specifically created Stichting Bitonic Payments to store and administer customer funds.  
 
 
 
@@ -72,56 +58,35 @@ https://bitonic.nl/bl3p
 
 - "[...] we used real data from the Bitcoin blockchain to demonstrate the ability to analyze a crime and track transactions." https://www.youtube.com/watch?v=FjScBC3X--U
 
-
 - Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns http://www.nicolascourtois.com/bitcoin/Bitcoin%20Thesis%20ACM_Bissesar_Shiva.pdf
 
 - Who Uses Bitcoin? An exploration of the Bitcoin community http://ieeexplore.ieee.org/abstract/document/6890928/
-
 
 - Characteristics of Bitcoin users: an analysis of Google search data http://www.tandfonline.com/doi/abs/10.1080/13504851.2014.995359
 
 ("[...] four possible clientele: computer programming enthusiasts, speculative investors, Libertarians and criminals. Computer programming and illegal activity search terms are positively correlated with Bitcoin interest, while Libertarian and investment terms are not.")
 
 
-
-
-- Analyzing the Bitcoin Network: The First Four Years
+- Analyzing the Bitcoin Network: The First Four Years http://www.mdpi.com/1999-5903/8/1/7
 
 ("Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time.")
 
-http://www.mdpi.com/1999-5903/8/1/7
+
+- Evaluating User Privacy in Bitcoin https://link.springer.com/chapter/10.1007/978-3-642-39884-1_4
+
+- An Analysis of Anonymity in the Bitcoin System https://link.springer.com/chapter/10.1007/978-1-4614-4139-7_10
+
+- An analysis of the Bitcoin users graph: inferring unusual behaviours https://link.springer.com/chapter/10.1007/978-3-319-50901-3_59
+
+- Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph ieeexplore.ieee.org/abstract/document/7796940/
+
+- Analyzing the Global-Scale Internet Graph at Different Topology Levels: Initial Graph Analysis https://www.researchgate.net/profile/Benjamin_Fabian/publication/299604836_Analyzing_the_Global-Scale_Internet_Graph_at_Different_Topology_Levels_Initial_Graph_Analysis/links/5702a2e808ae646a9da876c5.pdf
 
 
-- Evaluating User Privacy in Bitcoin
-
-https://link.springer.com/chapter/10.1007/978-3-642-39884-1_4
-
-
-- An Analysis of Anonymity in the Bitcoin System
-
-https://link.springer.com/chapter/10.1007/978-1-4614-4139-7_10
-
-
-- An analysis of the Bitcoin users graph: inferring unusual behaviours
-
-https://link.springer.com/chapter/10.1007/978-3-319-50901-3_59
-
-
-- Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph
-
-ieeexplore.ieee.org/abstract/document/7796940/
-
-
-- Analyzing the Global-Scale Internet Graph at Different Topology Levels: Initial Graph Analysis
-
-https://www.researchgate.net/profile/Benjamin_Fabian/publication/299604836_Analyzing_the_Global-Scale_Internet_Graph_at_Different_Topology_Levels_Initial_Graph_Analysis/links/5702a2e808ae646a9da876c5.pdf
-
-
-- The Unreasonable Effectiveness of Address Clustering
+- The Unreasonable Effectiveness of Address Clustering https://arxiv.org/abs/1605.06369
 
 ("[...] we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality, and the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence.")
 
-https://arxiv.org/abs/1605.06369
 
 
 
