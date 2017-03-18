@@ -1,12 +1,51 @@
 
+# News
 
 www.dapps.ethercasts.com
 
-https://www.wired.com/2017/03/google-deepminds-untrendy-blockchain-play-make-actually-useful/
+https://www.cryptocoinsnews.com/blockchain-news/ 
+ 
+
+# General applications - overviews
+
+
+- Ethereum
+
+https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum 
+
+https://media.consensys.net/the-birth-of-enterprise-ethereum-in-2017-ebe7f7abed92#.pd9tniigz
+ 
+OVerview by Joseph Lubin (Consensys)
+
+https://www.youtube.com/watch?v=0ilYnuP1qd4
+
+- Blockchain-API
+
+https://twitter.com/blockcypher
+
+
+
+# Governments
 
 http://www.coindesk.com/dubai-government-ibm-city-blockchain-pilot/
 
-https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/blockchain-technology-9-benefits-and-7-challenges.html
+http://www.the-blockchain.com/2017/03/16/consensys-named-official-blockchain-city-advisor-city-dubai/
+
+
+# Banking & Finance
+
+
+http://www.econotimes.com/Exclusive-Bank-of-Korea-R3-consortium-to-carry-out-blockchain-project-549053
+
+www.bankingtech.com/746692/r3-turns-its-back-on-blockchain/ 
+
+http://blogs.wsj.com/cio/2017/02/10/hong-kong-regulator-joins-r3-for-blockchain-tests/
+
+https://news.bitcoin.com/countdown-bitcoin-legal-payment-japan-two-months/ 
+
+https://jamespflynn.com/2017/01/19/the-internet-of-money-will-take-you-on-a-tour-of-important-bitcoin-topics/ 
+
+https://www.cryptocoinsnews.com/japanese-banks-building-blockchain-platform-money-transfer/
 
 
 
@@ -18,11 +57,29 @@ https://www.slideshare.net/personalbrandingacademy/epicauth-business-presentatio
 
 
 
+# Social platforms
+
+https://en.wikipedia.org/wiki/Steemit
+
+
+# AI
+
+https://www.wired.com/2017/03/google-deepminds-untrendy-blockchain-play-make-actually-useful/
+
+https://www.cryptocoinsnews.com/google-owned-ai-firm-teams-with-hospital-on-blockchain-like-project-faces-patient-concerns-over-data/
+
+
+
+
+
 # Considerations
 
 https://medium.com/@arsalanskhalid/deciding-between-ethereum-or-hyperledger-contributing-towards-open-source-development-4cb16e9f5290#.ndflc45va
 
 https://hackernoon.com/explaining-blockchain-how-proof-of-work-enables-trustless-consensus-2abed27f0845#.1ediv8v35
+
+https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/blockchain-technology-9-benefits-and-7-challenges.html
+
 
 
 
@@ -33,5 +90,8 @@ https://blockchainhackathon.eu
 http://datafluisteraar.org/hackathon-reflectie/
 
 
+ 
 
-https://www.secsign.com/usb-authentication-keys-tokens-bad-idea/
+
+
+
