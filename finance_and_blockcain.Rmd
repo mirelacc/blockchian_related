@@ -70,25 +70,19 @@ https://bitonic.nl/bl3p
 # Analysing the BTC BC
 
 
-- "[...] we used real data from the Bitcoin blockchain to demonstrate the ability to analyze a crime and track transactions."
-
-https://www.youtube.com/watch?v=FjScBC3X--U
+- "[...] we used real data from the Bitcoin blockchain to demonstrate the ability to analyze a crime and track transactions." https://www.youtube.com/watch?v=FjScBC3X--U
 
 
-- Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns
+- Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns http://www.nicolascourtois.com/bitcoin/Bitcoin%20Thesis%20ACM_Bissesar_Shiva.pdf
 
-http://www.nicolascourtois.com/bitcoin/Bitcoin%20Thesis%20ACM_Bissesar_Shiva.pdf
-
-- Who Uses Bitcoin? An exploration of the Bitcoin community
-
-http://ieeexplore.ieee.org/abstract/document/6890928/
+- Who Uses Bitcoin? An exploration of the Bitcoin community http://ieeexplore.ieee.org/abstract/document/6890928/
 
 
-- Characteristics of Bitcoin users: an analysis of Google search data
+- Characteristics of Bitcoin users: an analysis of Google search data http://www.tandfonline.com/doi/abs/10.1080/13504851.2014.995359
 
 ("[...] four possible clientele: computer programming enthusiasts, speculative investors, Libertarians and criminals. Computer programming and illegal activity search terms are positively correlated with Bitcoin interest, while Libertarian and investment terms are not.")
 
-http://www.tandfonline.com/doi/abs/10.1080/13504851.2014.995359
+
 
 
 - Analyzing the Bitcoin Network: The First Four Years
