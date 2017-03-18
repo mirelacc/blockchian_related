@@ -1,6 +1,7 @@
 
 # General info:
 
+- http://www.allthingsdistributed.com/2017/03/foundation-of-blockchain.html
 - https://www.linkedin.com/groups/4243277
 - http://www.initc3.org/publications.html
 - http://www.meetup.com/IC3-NYC-Blockchain-Meetup/events/231588722
