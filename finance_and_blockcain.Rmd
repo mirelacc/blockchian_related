@@ -7,6 +7,7 @@
 
 - Resilient cooperators stabilize long-run cooperation in the finitely repeated Prisoner’s Dilemma http://www.nature.com/articles/ncomms13800 
 
+- Modeling and Simulation of the Economics of Mining in the Bitcoin Market http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164603
 
 
 # BTC:
