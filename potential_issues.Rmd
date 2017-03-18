@@ -8,6 +8,9 @@
 - POS https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
 - APJ Quick Look: Security Implications of Using Blockchain Technology for More than Money https://www.youtube.com/watch?v=dGGnHTnkSCs
 
+- SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies:
+- https://www.youtube.com/watch?v=ZL0TbjSrwAI
+- http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf 
 
 # Anonymity
 
