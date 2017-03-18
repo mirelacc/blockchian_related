@@ -3,64 +3,49 @@
 # General overviews:
 
 - Hacking Blockchain https://www.youtube.com/watch?v=0gL6DsR6vGg
-
 - Security Implications of Non-Financial Uses of Blockchain Technology  https://www.youtube.com/watch?v=fEA398SELOE
- 
 - Ethereum: The Good, The Bad, The Ugly https://www.youtube.com/watch?v=BwPulJKP1_Y
-
 - POS https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
 
 
 # Anonymity
 
 - Anonymity in Bitcoin? – The Users’ Perspective http://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/10/
-
 - “When perhaps the real problem is money itself!”: the practical materiality of Bitcoin http://www.tandfonline.com/doi/abs/10.1080/10350330.2013.777594
-
 
 
 # Mining & power
 
 - Majority Is Not Enough: Bitcoin Mining Is Vulnerable https://link.springer.com/chapter/10.1007/978-3-662-45472-5_28
 
-
 # Known hacks:
 
 - Attacks on hashes: https://z.cash/technology/history-of-hash-function-attacks.html
-
 - http://www.coindesk.com/bitfinex-shuts-down-customer-bitcoin-stolen/
-
 - https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-numbers/
-
 - https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
-
 - Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact https://arxiv.org/pdf/1703.03779.pdf
-
 
 
 # Scalability
 
 Congestion in BTC:
+
 - Transaction cap: 5-7 tx/sec. - 12.5, and 1 MB/ 10 min.
 - Layers on top of bitcoin may be a solution, 'layer 2 services' like: Side-chains (https://blockstream.com/sidechains.pdf) or Lightening-network
 
-
 - https://www.oreilly.com/ideas/blockchain-scalability
-
 - http://www.coindesk.com/bitfury-flare-lightning-network-routing/
-
 - https://www.bigchaindb.com/whitepaper 
-
 - https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
 
  
-
 # Attempts of solving issues:
 
-https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
+- https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
+- https://www.youtube.com/watch?v=bSdwqa3Yl0Q
 
-https://www.youtube.com/watch?v=bSdwqa3Yl0Q
+IPFS:
 
-
-
+- https://www.youtube.com/watch?v=ewpIi1y_KDc
 
