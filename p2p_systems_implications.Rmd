@@ -9,12 +9,33 @@
 - Distributed systems research group:
 - https://pure.tudelft.nl/portal/en/organisations/distributed-systems(bae30032-1ecb-46c4-8efb-ed9e7251d281)/publications.html
 
-- Governance in Blockchain Technologies & Social Contract Theories
-- [...]in the context of a growing number of social and political critiques of blockchain technologies. [...] to examine the way blockchain technologies canbring about - and justify - new models of governance. [...]
-- http://ledgerjournal.org/ojs/index.php/ledger/article/view/62 
+- Governance in Blockchain Technologies & Social Contract Theories http://ledgerjournal.org/ojs/index.php/ledger/article/view/62 
+- [...] in the context of a growing number of social and political critiques of blockchain technologies. [...] to examine the way blockchain technologies canbring about - and justify - new models of governance. [...] 
+
 
 # Trust
 
 - Sybil-resistant trust mechanisms in distributed systems
 - "[...] the problem of estimating trust in distributed systems is considered" http://repository.tudelft.nl/islandora/object/uuid%3A17adc7bd-5c82-4ad5-b1c8-a8b85b23db1f?collection=education4
+
+
+# Thoughts on economics
+
+- https://unenumerated.blogspot.nl 
+- http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-preserve-strange-ancient-landscape.html
+- Bitcoin through the Lenses of Complexity Theory: Some Non-Orthodox Implications for Economic Theorizing https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2340007
+
+- Resilient cooperators stabilize long-run cooperation in the finitely repeated Prisoner’s Dilemma http://www.nature.com/articles/ncomms13800 
+
+- Modeling and Simulation of the Economics of Mining in the Bitcoin Market http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164603
+
+
+# Materiality
+
+- “When perhaps the real problem is money itself!”: the practical materiality of Bitcoin http://www.tandfonline.com/doi/abs/10.1080/10350330.2013.777594
+
+
+
+
+
 
