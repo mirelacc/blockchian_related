@@ -8,6 +8,8 @@
  
 - Ethereum: The Good, The Bad, The Ugly https://www.youtube.com/watch?v=BwPulJKP1_Y
 
+- POS https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
+
 
 # Anonymity
 
@@ -58,8 +60,6 @@ Congestion in BTC:
 https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
 
 https://www.youtube.com/watch?v=bSdwqa3Yl0Q
-
-https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
 
 
 
