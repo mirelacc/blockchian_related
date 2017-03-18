@@ -52,3 +52,15 @@ Congestion in BTC:
 - https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
 
  
+
+# Attempts of solving issues:
+
+https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
+
+https://www.youtube.com/watch?v=bSdwqa3Yl0Q
+
+https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
+
+
+
+
