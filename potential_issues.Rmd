@@ -1,6 +1,6 @@
 
 
-# General overviews:
+# General / overviews:
 
 - Hacking Blockchain https://www.youtube.com/watch?v=0gL6DsR6vGg
 - Security Implications of Non-Financial Uses of Blockchain Technology  https://www.youtube.com/watch?v=fEA398SELOE
@@ -10,11 +10,13 @@
 - SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies:
 - https://www.youtube.com/watch?v=ZL0TbjSrwAI
 - http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf 
+- News on BTC scams: https://cointelegraph.com/tags/bitcoin-scams
 
 # Anonymity
 
 - Anonymity in Bitcoin? – The Users’ Perspective http://aisel.aisnet.org/icis2016/Crowdsourcing/Presentations/10/
 - Also see: https://github.com/mirelacc/blockchian_related/blob/master/finance_and_blockcain.Rmd
+- "As more people earn income in Blockchain-based currency the social norm of salary confidentiality is challenged." https://cointelegraph.com/news/full-disclosure-of-your-salary-blockchain-remuneration-models
 
 # Mining & power
 
