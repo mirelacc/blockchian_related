@@ -78,7 +78,7 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 
 - An analysis of the Bitcoin users graph: inferring unusual behaviours https://link.springer.com/chapter/10.1007/978-3-319-50901-3_59
 
-- Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph ieeexplore.ieee.org/abstract/document/7796940/
+- Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph https://ieeexplore.ieee.org/abstract/document/7796940/
 
 - Analyzing the Global-Scale Internet Graph at Different Topology Levels: Initial Graph Analysis https://www.researchgate.net/profile/Benjamin_Fabian/publication/299604836_Analyzing_the_Global-Scale_Internet_Graph_at_Different_Topology_Levels_Initial_Graph_Analysis/links/5702a2e808ae646a9da876c5.pdf
 
@@ -88,7 +88,9 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 ("[...] we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality, and the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence.")
 
 
+- An Analysis of Anonymity in Bitcoin Using P2P Network Traffic https://link.springer.com/chapter/10.1007/978-3-662-45472-5_30
 
+("[...] developed heuristics for identifying ownership relationships between Bitcoin addresses and IP addresses. We discuss the circumstances under which these relationships become apparent and demonstrate how nearly 1,000 Bitcoin addresses can be mapped to their likely owner IPs by leveraging anomalous relaying behavior.")
 
 
 
