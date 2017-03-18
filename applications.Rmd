@@ -42,11 +42,12 @@ Blockchain-API
 - https://twitter.com/blockcypher
  
 
-- Industry
+# Industry
 
 NL:
 
 - http://www.tudelft.nl/en/current/latest-news/article/detail/logistieke-sector-concreet-aan-de-slag-met-blockchain-technologie/
+- http://agconnect.nl/artikel/tu-delft-heeft-blockchain-hypotheek-werkend
 - https://www.youtube.com/user/intobitcoin/videos
 
 
