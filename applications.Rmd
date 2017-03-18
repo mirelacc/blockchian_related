@@ -7,7 +7,6 @@
 
 # General applications - overviews
 
-
 Ethereum
 
 - https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum 
@@ -20,7 +19,6 @@ Overview by Joseph Lubin (Consensys)
 Blockchain-API
 
 - https://twitter.com/blockcypher
-
 
 
 # Governments
@@ -45,7 +43,7 @@ NL:
 - https://www.cryptocoinsnews.com/japanese-banks-building-blockchain-platform-money-transfer/
 
 
-# Identity:
+# Identity
 
 - https://www.youtube.com/watch?v=qRevDM9D8WE
 - https://www.slideshare.net/personalbrandingacademy/epicauth-business-presentation-v223
