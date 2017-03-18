@@ -60,3 +60,54 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 
 https://bitonic.nl/bl3p
 
+
+
+
+
+
+
+
+# Analysing the BTC BC
+
+https://www.youtube.com/watch?v=FjScBC3X--U
+
+
+Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns
+
+http://www.nicolascourtois.com/bitcoin/Bitcoin%20Thesis%20ACM_Bissesar_Shiva.pdf
+
+Who Uses Bitcoin? An exploration of the Bitcoin community
+
+http://ieeexplore.ieee.org/abstract/document/6890928/
+
+
+Characteristics of Bitcoin users: an analysis of Google search data
+
+("[...] four possible clientele: computer programming enthusiasts, speculative investors, Libertarians and criminals. Computer programming and illegal activity search terms are positively correlated with Bitcoin interest, while Libertarian and investment terms are not.")
+
+http://www.tandfonline.com/doi/abs/10.1080/13504851.2014.995359
+
+
+Analyzing the Bitcoin Network: The First Four Years
+
+("Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time.")
+
+http://www.mdpi.com/1999-5903/8/1/7
+
+
+Evaluating User Privacy in Bitcoin
+
+https://link.springer.com/chapter/10.1007/978-3-642-39884-1_4
+
+
+An Analysis of Anonymity in the Bitcoin System
+
+https://link.springer.com/chapter/10.1007/978-1-4614-4139-7_10
+
+
+
+
+
+
+
+
