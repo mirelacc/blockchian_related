@@ -7,6 +7,21 @@
 
 # General applications - overviews
 
+- https://en.wikipedia.org/wiki/Blockchain#Applications_2
+
+Nick Szabo:
+
+- https://www.youtube.com/watch?v=v_-mxyN4pcY 
+- https://www.youtube.com/watch?v=tWuN2R2DC6c 
+- https://www.youtube.com/watch?v=LdvQTwjVmrE 
+- https://www.youtube.com/watch?v=_msk4-oJZV4
+
+William Mougayar: 
+
+- "Blockchains: Past, Present and Future" | Talks at Google https://www.youtube.com/watch?v=sl1U0Mu0qEU
+- What is The State Of Blockchain?  https://www.youtube.com/watch?v=N_CLxVBLv3s
+
+
 Ethereum
 
 - https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum 
