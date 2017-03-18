@@ -69,45 +69,65 @@ https://bitonic.nl/bl3p
 
 # Analysing the BTC BC
 
+
+- "[...] we used real data from the Bitcoin blockchain to demonstrate the ability to analyze a crime and track transactions."
+
 https://www.youtube.com/watch?v=FjScBC3X--U
 
 
-Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns
+- Analysis of Bitcoin Transaction Flows to Reveal Usage and Geographic Patterns
 
 http://www.nicolascourtois.com/bitcoin/Bitcoin%20Thesis%20ACM_Bissesar_Shiva.pdf
 
-Who Uses Bitcoin? An exploration of the Bitcoin community
+- Who Uses Bitcoin? An exploration of the Bitcoin community
 
 http://ieeexplore.ieee.org/abstract/document/6890928/
 
 
-Characteristics of Bitcoin users: an analysis of Google search data
+- Characteristics of Bitcoin users: an analysis of Google search data
 
 ("[...] four possible clientele: computer programming enthusiasts, speculative investors, Libertarians and criminals. Computer programming and illegal activity search terms are positively correlated with Bitcoin interest, while Libertarian and investment terms are not.")
 
 http://www.tandfonline.com/doi/abs/10.1080/13504851.2014.995359
 
 
-Analyzing the Bitcoin Network: The First Four Years
+- Analyzing the Bitcoin Network: The First Four Years
 
 ("Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time.")
 
 http://www.mdpi.com/1999-5903/8/1/7
 
 
-Evaluating User Privacy in Bitcoin
+- Evaluating User Privacy in Bitcoin
 
 https://link.springer.com/chapter/10.1007/978-3-642-39884-1_4
 
 
-An Analysis of Anonymity in the Bitcoin System
+- An Analysis of Anonymity in the Bitcoin System
 
 https://link.springer.com/chapter/10.1007/978-1-4614-4139-7_10
 
 
+- An analysis of the Bitcoin users graph: inferring unusual behaviours
+
+https://link.springer.com/chapter/10.1007/978-3-319-50901-3_59
 
 
+- Uncovering the Bitcoin Blockchain: An Analysis of the Full Users Graph
 
+ieeexplore.ieee.org/abstract/document/7796940/
+
+
+- Analyzing the Global-Scale Internet Graph at Different Topology Levels: Initial Graph Analysis
+
+https://www.researchgate.net/profile/Benjamin_Fabian/publication/299604836_Analyzing_the_Global-Scale_Internet_Graph_at_Different_Topology_Levels_Initial_Graph_Analysis/links/5702a2e808ae646a9da876c5.pdf
+
+
+- The Unreasonable Effectiveness of Address Clustering
+
+("[...] we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality, and the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence.")
+
+https://arxiv.org/abs/1605.06369
 
 
 
