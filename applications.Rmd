@@ -83,11 +83,6 @@ NL:
 - https://en.wikipedia.org/wiki/Synereo
 
 
-# AI
-
-- https://www.wired.com/2017/03/google-deepminds-untrendy-blockchain-play-make-actually-useful/
-- https://www.cryptocoinsnews.com/google-owned-ai-firm-teams-with-hospital-on-blockchain-like-project-faces-patient-concerns-over-data/
-
 
 # Considerations
 
