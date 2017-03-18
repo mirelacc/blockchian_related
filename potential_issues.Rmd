@@ -51,12 +51,14 @@ Congestion in BTC:
 - https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
 - https://www.youtube.com/watch?v=bSdwqa3Yl0Q
 
-Anonymity & ZKP's:
+Anonymity, ZKP's & zsnarks:
 
 - https://en.wikipedia.org/wiki/Zerocoin 
 - https://en.wikipedia.org/wiki/Zcash
 - https://www.youtube.com/watch?v=1GTRfZ0m7M8
+- https://www.youtube.com/watch?v=S6qOj9ap6RM
 - https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof
+
 
 IPFS:
 
