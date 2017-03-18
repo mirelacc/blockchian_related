@@ -15,10 +15,16 @@ Ethereum
 Overview by Joseph Lubin (Consensys)
 
 - https://www.youtube.com/watch?v=0ilYnuP1qd4
+- + Slides: https://www.slideshare.net/LearnWTB/blockchain-ethereum-and-consensys
 
 Blockchain-API
 
 - https://twitter.com/blockcypher
+
+General:
+
+- https://www.youtube.com/watch?v=hm4Eym4N0_Q
+- https://www.youtube.com/user/intobitcoin/videos
 
 
 # Governments
