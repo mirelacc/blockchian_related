@@ -1,11 +1,12 @@
 
 # General & thoughts on economics
 
-https://unenumerated.blogspot.nl 
-
-http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-preserve-strange-ancient-landscape.html
-
+- https://unenumerated.blogspot.nl 
+- http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-preserve-strange-ancient-landscape.html
 - Bitcoin through the Lenses of Complexity Theory: Some Non-Orthodox Implications for Economic Theorizing https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2340007
+
+- Resilient cooperators stabilize long-run cooperation in the finitely repeated Prisoner’s Dilemma http://www.nature.com/articles/ncomms13800 
+
 
 
 # BTC:
@@ -26,27 +27,21 @@ http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-prese
 # Other Cryptocurrencies:
 
 - http://blockgeeks.com/questions/what-do-you-think-of-the-new-anonymous-digital-currency-zcash/
-
 - https://en.wikipedia.org/wiki/Dash_(cryptocurrency)
-
 - https://www.cryptocompare.com/
 
-
 - Africa: https://qz.com/872876/fintech-senegal-is-launched-the-ecfa-digital-currency/
-
 
 
 # Fee related:
 
 - https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
-
 - http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
 
 
 # Taxes:
 
 - http://www.internationaltaxreview.com/Article/3573467/Blockchain-and-tax-What-businesses-need-to-know.html
-
 - http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
 
 
@@ -71,7 +66,6 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 
 ("[...] four possible clientele: computer programming enthusiasts, speculative investors, Libertarians and criminals. Computer programming and illegal activity search terms are positively correlated with Bitcoin interest, while Libertarian and investment terms are not.")
 
-
 - Analyzing the Bitcoin Network: The First Four Years http://www.mdpi.com/1999-5903/8/1/7
 
 ("Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time.")
@@ -87,11 +81,9 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 
 - Analyzing the Global-Scale Internet Graph at Different Topology Levels: Initial Graph Analysis https://www.researchgate.net/profile/Benjamin_Fabian/publication/299604836_Analyzing_the_Global-Scale_Internet_Graph_at_Different_Topology_Levels_Initial_Graph_Analysis/links/5702a2e808ae646a9da876c5.pdf
 
-
 - The Unreasonable Effectiveness of Address Clustering https://arxiv.org/abs/1605.06369
 
 ("[...] we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality, and the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence.")
-
 
 - An Analysis of Anonymity in Bitcoin Using P2P Network Traffic https://link.springer.com/chapter/10.1007/978-3-662-45472-5_30
 
