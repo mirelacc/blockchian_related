@@ -1,27 +1,11 @@
 
-# General & thoughts on economics
-
-- https://unenumerated.blogspot.nl 
-- http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-preserve-strange-ancient-landscape.html
-- Bitcoin through the Lenses of Complexity Theory: Some Non-Orthodox Implications for Economic Theorizing https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2340007
-
-- Resilient cooperators stabilize long-run cooperation in the finitely repeated Prisoner’s Dilemma http://www.nature.com/articles/ncomms13800 
-
-- Modeling and Simulation of the Economics of Mining in the Bitcoin Market http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164603
-
-
 # BTC:
 
 - https://www.bloomberg.com/news/articles/2016-12-16/bitcoin-s-rally-crushed-every-other-currency-in-2016-here-s-why
-
 - http://www.forbes.com/sites/laurashin/2017/01/05/the-2-factors-that-drove-bitcoins-20-overnight-price-plunge/#6033a327563c
-
 - "Want to know what's behind the bitcoin surge? @BKBrianKelly breaks it down" https://twitter.com/CNBCFastMoney/status/812425456293126144
-
 - "Crypto traders: in your opinion, how would a sustained regime of 5-6% interest rates affect the Bitcoin price?" https://twitter.com/el33th4xor/status/808744053944844297
-
 - "The Currency Wars and Bitcoin's Neutrality" https://www.youtube.com/watch?v=Bu5Mtvy97-4
-
 - "Thai bank implements blockchain" http://asia.nikkei.com/Business/AC/Thai-banks-implement-blockchain-to-become-regional-epicenter-of-fintech
 
 
@@ -30,21 +14,17 @@
 - http://blockgeeks.com/questions/what-do-you-think-of-the-new-anonymous-digital-currency-zcash/
 - https://en.wikipedia.org/wiki/Dash_(cryptocurrency)
 - https://www.cryptocompare.com/
-
 - Africa: https://qz.com/872876/fintech-senegal-is-launched-the-ecfa-digital-currency/
-
 
 # Fee related:
 
 - https://medium.com/@johnblocke/the-fee-market-myth-b9d189e45096#.cwrttta6a
 - http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
 
-
 # Taxes:
 
 - http://www.internationaltaxreview.com/Article/3573467/Blockchain-and-tax-What-businesses-need-to-know.html
 - http://www.bitcoinspot.nl/menu-wisselkoersen/bitcoin-wisselkoers-euro/34-sectie-nieuws/nieuws-algemeen/560-belasting-betalen-over-je-bitcoins.html
-
 
 # Practical:
 
