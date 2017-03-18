@@ -28,6 +28,8 @@
 
 # Known hacks:
 
+- Attacks on hashes: https://z.cash/technology/history-of-hash-function-attacks.html
+
 - http://www.coindesk.com/bitfinex-shuts-down-customer-bitcoin-stolen/
 
 - https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-numbers/
