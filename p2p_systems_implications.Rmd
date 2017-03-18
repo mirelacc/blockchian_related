@@ -1,0 +1,20 @@
+
+
+# P2P systems
+
+- http://www.ds.ewi.tudelft.nl/pouwelse/publications/
+- 4th Generation Peer-to-Peer Technology https://www.youtube.com/watch?v=JQiLaKdzD0E
+- https://github.com/Tribler
+- http://wan.poly.edu/p2p2015/keynote.html
+- Distributed systems research group:
+- https://pure.tudelft.nl/portal/en/organisations/distributed-systems(bae30032-1ecb-46c4-8efb-ed9e7251d281)/publications.html
+
+- Governance in Blockchain Technologies & Social Contract Theories
+- [...]in the context of a growing number of social and political critiques of blockchain technologies. [...] to examine the way blockchain technologies canbring about - and justify - new models of governance. [...]
+- http://ledgerjournal.org/ojs/index.php/ledger/article/view/62 
+
+# Trust
+
+- Sybil-resistant trust mechanisms in distributed systems
+- "[...] the problem of estimating trust in distributed systems is considered" http://repository.tudelft.nl/islandora/object/uuid%3A17adc7bd-5c82-4ad5-b1c8-a8b85b23db1f?collection=education4
+
