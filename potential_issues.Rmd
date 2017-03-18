@@ -18,6 +18,7 @@
 # Mining & power
 
 - Majority Is Not Enough: Bitcoin Mining Is Vulnerable https://link.springer.com/chapter/10.1007/978-3-662-45472-5_28
+- http://www.newsbtc.com/2016/10/17/bitcoin-miners-china-may-getting-much-control/
 
 # Known hacks:
 
@@ -26,6 +27,7 @@
 - https://www.cryptocoinsnews.com/hackers-steal-millions-in-bitcoin-with-phone-numbers/
 - https://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security
 - Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact https://arxiv.org/pdf/1703.03779.pdf
+- & http://libertarianstandard.com/2013/12/01/ponzi-logic-debunking-gary-north/
 
 
 # Scalability
@@ -46,9 +48,17 @@ Congestion in BTC:
 - https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
 - https://www.youtube.com/watch?v=bSdwqa3Yl0Q
 
+Anonymity & ZKP's:
+
+- https://en.wikipedia.org/wiki/Zerocoin 
+- https://en.wikipedia.org/wiki/Zcash
+- https://www.youtube.com/watch?v=1GTRfZ0m7M8
+- https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof
+
 IPFS:
 
 - https://www.youtube.com/watch?v=ewpIi1y_KDc
 - https://www.youtube.com/watch?v=jONZtXMu03w
 - https://www.youtube.com/watch?v=cU-n_m-snxQ
+
 
