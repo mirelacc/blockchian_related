@@ -1,4 +1,13 @@
 
+# General & thoughts on economics
+
+https://unenumerated.blogspot.nl 
+
+http://www.treehugger.com/sustainable-agriculture/how-irish-cattle-farmers-preserve-strange-ancient-landscape.html
+
+- Bitcoin through the Lenses of Complexity Theory: Some Non-Orthodox Implications for Economic Theorizing https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2340007
+
+
 # BTC:
 
 - https://www.bloomberg.com/news/articles/2016-12-16/bitcoin-s-rally-crushed-every-other-currency-in-2016-here-s-why
@@ -46,10 +55,6 @@
 - Bunq is a new Dutch app based bank and is available throughout the EU.  https://bitonic.nl/bl3p
 
 BL3P, the trading platform of Bitonic B.V., uses the specifically created Stichting Bitonic Payments to store and administer customer funds.  
-
-
-
-
 
 
 
