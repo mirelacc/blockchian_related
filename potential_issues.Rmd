@@ -32,14 +32,12 @@
 - Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact https://arxiv.org/pdf/1703.03779.pdf
 - & http://libertarianstandard.com/2013/12/01/ponzi-logic-debunking-gary-north/
 
-
 # Scalability
 
 Congestion in BTC:
 
 - Transaction cap: 5-7 tx/sec. - 12.5, and 1 MB/ 10 min.
 - Layers on top of bitcoin may be a solution, 'layer 2 services' like: Side-chains (https://blockstream.com/sidechains.pdf) or Lightening-network
-
 - https://www.oreilly.com/ideas/blockchain-scalability
 - http://www.coindesk.com/bitfury-flare-lightning-network-routing/
 - https://www.bigchaindb.com/whitepaper 
