@@ -42,7 +42,11 @@ Congestion in BTC:
 - https://www.bigchaindb.com/whitepaper 
 - https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap
 
- 
+# Other
+
+- “When perhaps the real problem is money itself!”: the practical materiality of Bitcoin http://www.tandfonline.com/doi/abs/10.1080/10350330.2013.777594
+
+
 # Attempts of solving issues:
 
 - https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
