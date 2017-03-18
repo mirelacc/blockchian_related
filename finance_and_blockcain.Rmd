@@ -71,4 +71,4 @@ BL3P, the trading platform of Bitonic B.V., uses the specifically created Sticht
 ("[...] developed heuristics for identifying ownership relationships between Bitcoin addresses and IP addresses. We discuss the circumstances under which these relationships become apparent and demonstrate how nearly 1,000 Bitcoin addresses can be mapped to their likely owner IPs by leveraging anomalous relaying behavior.")
 
 
-
+- Researcher (also on dark markets) https://www.gwern.net/index
