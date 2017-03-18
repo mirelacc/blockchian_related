@@ -33,7 +33,8 @@
 # Misc & Researchers
 
 - https://github.com/pimveldhuisen
-
+- http://www.allthingsdistributed.com/2017/02/byzantine-generals.html
+- http://www.allthingsdistributed.com/2017/02/monte-carlo-methods.html
 
 
 
