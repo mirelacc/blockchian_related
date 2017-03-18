@@ -10,6 +10,11 @@
 - https://en.wikipedia.org/wiki/Blockchain#Applications_2
 - https://www.quora.com/What-are-the-top-10-most-exciting-blockchain-startups
 
+- https://www.youtube.com/watch?v=hm4Eym4N0_Q
+
+- by Joseph Lubin (Consensys)
+- https://www.youtube.com/watch?v=0ilYnuP1qd4
+- + Slides: https://www.slideshare.net/LearnWTB/blockchain-ethereum-and-consensys
 
 Nick Szabo:
 
@@ -23,7 +28,6 @@ William Mougayar:
 - "Blockchains: Past, Present and Future" | Talks at Google https://www.youtube.com/watch?v=sl1U0Mu0qEU
 - What is The State Of Blockchain?  https://www.youtube.com/watch?v=N_CLxVBLv3s
 
-
 Ethereum
 
 - https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum 
@@ -33,16 +37,11 @@ Ethereum
  
 Overviews
 
-- https://www.youtube.com/watch?v=hm4Eym4N0_Q
 
-- by Joseph Lubin (Consensys)
-- https://www.youtube.com/watch?v=0ilYnuP1qd4
-- + Slides: https://www.slideshare.net/LearnWTB/blockchain-ethereum-and-consensys
+# Finance
 
-Blockchain-API
+https://github.com/mirelacc/blockchian_related/blob/master/finance_and_blockcain.Rmd
 
-- https://twitter.com/blockcypher
- 
 
 # Industry
 
@@ -85,7 +84,6 @@ NL:
 - https://en.wikipedia.org/wiki/Synereo
 
 
-
 # Considerations
 
 - https://medium.com/@arsalanskhalid/deciding-between-ethereum-or-hyperledger-contributing-towards-open-source-development-4cb16e9f5290#.ndflc45va
@@ -98,5 +96,10 @@ NL:
 - https://blockchainhackathon.eu
 - http://datafluisteraar.org/hackathon-reflectie/
 
+
+# Other: Blockchain-API
+
+- https://twitter.com/blockcypher
+ 
 
 
