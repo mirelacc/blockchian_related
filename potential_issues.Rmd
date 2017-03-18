@@ -7,7 +7,6 @@
 - Ethereum: The Good, The Bad, The Ugly https://www.youtube.com/watch?v=BwPulJKP1_Y
 - POS https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8#.e809zttpx
 - APJ Quick Look: Security Implications of Using Blockchain Technology for More than Money https://www.youtube.com/watch?v=dGGnHTnkSCs
-
 - SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies:
 - https://www.youtube.com/watch?v=ZL0TbjSrwAI
 - http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf 
@@ -49,8 +48,11 @@ Congestion in BTC:
 
 # Attempts of solving issues:
 
+Ethereum:
+
 - https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
 - https://www.youtube.com/watch?v=bSdwqa3Yl0Q
+- Ethereum progress: https://www.youtube.com/watch?v=irHtY3t0IHY
 
 Anonymity, ZKP's & zsnarks:
 
@@ -59,7 +61,6 @@ Anonymity, ZKP's & zsnarks:
 - https://www.youtube.com/watch?v=1GTRfZ0m7M8
 - https://www.youtube.com/watch?v=S6qOj9ap6RM
 - https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof
-
 
 IPFS:
 
