@@ -1,4 +1,7 @@
 
+- News:
+- http://www.coindesk.com/storj-migrate-decentralized-storage-service-ethereum-blockchain/
+
 # General info:
 
 - http://www.allthingsdistributed.com/2017/03/foundation-of-blockchain.html
@@ -13,6 +16,8 @@
 - http://ledgerjournal.org/ojs/index.php/ledger/index
 - https://blog.sldx.com/
 - http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+- http://blockchain.media.mit.edu/syllabus.html 
+- https://www.youtube.com/watch?v=z-5ZSgEGPxY
 
 # Enigma - MIT
 
@@ -49,5 +54,9 @@ Bob McElrath explains some aspects, like the multi-party-computation:
 - https://medium.com/@bergealex4/the-artificial-block-size-limit-1b69aa5d9d4#.5slogz3ye 
 - https://medium.com/@bergealex4
 
+# Altcoins:
 
+- https://coinmarketcap.com/
+- A Treatise on Altcoins: https://download.wpsoftware.net/bitcoin/alts.pdf
+- https://github.com/apoelstra
 
