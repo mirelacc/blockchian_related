@@ -11,6 +11,7 @@
 - https://www.youtube.com/watch?v=ZL0TbjSrwAI
 - http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf 
 - News on BTC scams: https://cointelegraph.com/tags/bitcoin-scams
+- Hard forks and the block size debate: https://medium.com/@sdaftuar/how-the-bitcoin-experiment-might-fail-7f6c24f99ecf#.u7m7rxf15
 
 # Anonymity
 
@@ -38,7 +39,7 @@
 Congestion in BTC:
 
 - Transaction cap: 5-7 tx/sec. - 12.5, and 1 MB/ 10 min.
-- Layers on top of bitcoin may be a solution, 'layer 2 services' like: Side-chains (https://blockstream.com/sidechains.pdf) or Lightening-network
+- 
 - https://www.oreilly.com/ideas/blockchain-scalability
 - http://www.coindesk.com/bitfury-flare-lightning-network-routing/
 - https://www.bigchaindb.com/whitepaper 
@@ -51,6 +52,9 @@ Congestion in BTC:
 
 # Attempts of solving issues:
 
+- Layers on top of bitcoin may be a solution, 'layer 2 services' like: Side-chains (https://blockstream.com/sidechains.pdf) 
+- or the Lightning Network, "Scalable, Instant Bitcoin/Blockchain Transactions" https://lightning.network/
+ 
 Ethereum:
 
 - https://ethereumfoundation.org/devcon/?session=14-the-mauve-revolution
