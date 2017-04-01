@@ -18,6 +18,8 @@
 - http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - http://blockchain.media.mit.edu/syllabus.html 
 - https://www.youtube.com/watch?v=z-5ZSgEGPxY
+- https://medium.com/@2W/fixing-orwellian-reputation-systems-4d01d489dcb7 
+- https://www.linkedin.com/pulse/exact-definition-blockchain-tim-pastoor
 
 # Enigma - MIT
 
