@@ -3,7 +3,8 @@
 
 - www.dapps.ethercasts.com
 - https://www.cryptocoinsnews.com/blockchain-news/ 
- 
+- https://deepmind.com/blog/trust-confidence-verifiable-data-audit/ 
+- https://github.com/google/trillian
 
 # General applications - overviews
 
@@ -34,7 +35,7 @@ Ethereum
 
 # Finance
 
-https://github.com/mirelacc/blockchian_related/blob/master/finance_and_blockcain.Rmd
+- https://github.com/mirelacc/blockchian_related/blob/master/finance_and_blockcain.Rmd
 
 
 # Industry
