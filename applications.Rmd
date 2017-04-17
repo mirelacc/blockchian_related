@@ -71,6 +71,7 @@ NL:
 - https://www.youtube.com/watch?v=qRevDM9D8WE
 - https://www.slideshare.net/personalbrandingacademy/epicauth-business-presentation-v223
 - http://2way.io/
+- http://www.decodeproject.eu/#mission "Develop a distributed, privacy-aware, and trusted architecture for decentralised data governance and identity management. The platform adopts Attribute Based Cryptography (ABC) to sensitive information, ideas from Certificate Transparency for identification, and Blockchain Technology for federated data access, distribution and resilience."
 
 # Social platforms
 
